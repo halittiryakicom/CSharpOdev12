@@ -1,5 +1,6 @@
 ﻿using CSharpOdev12;
 
+#nesne oluşturma
 Person teacher = new Person();
 teacher.Name = "Halit";
 teacher.Surname = "Tiryaki";
